@@ -1,0 +1,52 @@
+1644389777197	geckodriver	INFO	Listening on 127.0.0.1:61935
+1644390125401	geckodriver	INFO	Listening on 127.0.0.1:62075
+1644390128393	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\SOMASH~1\\AppData\\Local\\Temp\\rust_mozprofile8aAqRw"
+1644390128980	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Somashekar\\AppData\\Local\\Temp\\rust_mozprofile8aAqRw\\search.json.mozlz4", (void 0)))
+1644390135329	Marionette	INFO	Listening on port 62083
+1644390135440	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1644390139017	Marionette	INFO	Stopped listening on port 62083
+console.error: SearchService: "maybeReloadEngines failed" (new TypeError("AddonManagerInternal._getProviderByName(...) is undefined", "resource://gre/modules/AddonManager.jsm", 2549))
+1644404034210	geckodriver	INFO	Listening on 127.0.0.1:49886
+1644404037247	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\SOMASH~1\\AppData\\Local\\Temp\\rust_mozprofile10pXSB"
+1644404038294	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Somashekar\\AppData\\Local\\Temp\\rust_mozprofile10pXSB\\search.json.mozlz4", (void 0)))
+1644404045479	Marionette	INFO	Listening on port 49894
+1644404046547	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1644404057245	Marionette	INFO	Stopped listening on port 49894
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+1644404183250	geckodriver	INFO	Listening on 127.0.0.1:50008
+1644404186358	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\SOMASH~1\\AppData\\Local\\Temp\\rust_mozprofileD61aXd"
+1644404187788	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Somashekar\\AppData\\Local\\Temp\\rust_mozprofileD61aXd\\search.json.mozlz4", (void 0)))
+1644404197096	Marionette	INFO	Listening on port 50024
+1644404197820	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1644404208432	Marionette	INFO	Stopped listening on port 50024
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+1644404661049	geckodriver	INFO	Listening on 127.0.0.1:50221
+1644404664102	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\SOMASH~1\\AppData\\Local\\Temp\\rust_mozprofilecVeQDV"
+1644404664940	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Somashekar\\AppData\\Local\\Temp\\rust_mozprofilecVeQDV\\search.json.mozlz4", (void 0)))
+1644404676410	Marionette	INFO	Listening on port 50238
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1644404677971	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1644404688479	Marionette	INFO	Stopped listening on port 50238
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+console.error: "Could not load engine google@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2543\"  data: no]"
+console.error: "Could not load engine amazondotcom@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2543\"  data: no]"
+console.error: "Could not load engine wikipedia@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2543\"  data: no]"
+console.error: "Could not load engine bing@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2543\"  data: no]"
+console.error: "Could not load engine ddg@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2543\"  data: no]"
+console.warn: SearchService: "_init: abandoning init due to shutting down"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
